@@ -44,8 +44,12 @@ monitoring user activities
 
 ## Screenshots
 
+1. Home page
 ![Home page](/Images/home.png?raw=true "Homepage")
 
+
+2. Home page with uploaded and shared files
 ![Home page](/Images/home1.png?raw=true "Homepage")
 
+3. User activities and detail
 ![User Activities](/Images/activity.png?raw=true "User Activities")
